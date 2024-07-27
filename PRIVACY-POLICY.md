@@ -1,12 +1,27 @@
-PRIVACY POLICY
-Last updated: 10/05/2024
-Your safety is important to us. For this reason, the data obtained after using the commands are sensitively protected.
+Uptime Bot Privacy Policy
 
-PURPOSE OF PROCESSING YOUR PERSONEL DATA
-After using the command, the data we obtain after using the command is used according to the function of the command, and no further processing is applied to the data within it.
+This privacy policy belongs to the Uptime Bot (ID: 861248104257552424).
 
-TO WHOM AND FOR WHAT PURPOSES THE COLLECTED PERSONAL DATA MAY BE TRANSFERRED
-Your personal data that you share with us may be transferred to third parties, institutions and organisations in Turkey and abroad from whom we receive and/or provide services, with whom we have a contractual relationship, with whom we cooperate, and to judicial and administrative authorities upon request, provided that necessary technical and administrative measures are taken.
+Information
 
-CONTACT
-You are completely free to accept or not to accept the processing of your personal data, which is only necessary for the operation of the commands to provide you with services, in accordance with this privacy and personal data processing policy. If you continue to use the bot, it will be assumed by us that you have accepted, and if there is a problem, you can contact us via https://discord.gg/z83CSq3J58 discord address.
+User – Each individual user registered on the Discord platform.
+ID – A unique identifier created for each user, representing the user.
+Server – Each individual server registered on the Discord platform.
+Link – The link/address specified by the user through the link-adding command.
+1) Your Stored Data
+1A) Data Stored via Commands
+
+User ID
+Server ID used
+Links added by the user to our system
+2B) Automatically Stored Data
+
+Server:
+ID, name, profile picture, member count, server owner, channel count, date the bot was added.
+Member:
+ID, name, account creation date, date of joining the server.
+3) Protection of Your Data
+Your data is stored in restricted-access databases using encryption methods. You can send an email to uptimebot@gmail.com for inquiries regarding the confidentiality of your data. If you have any concerns or questions about your data, you can create a ticket for assistance.
+
+4) Deletion of Your Data
+You are free to request the deletion of your data. To completely delete your data, you can send a Direct Message to the user with the name tag Daeky#9779 (ID: 815239409409589278) or send an email to uptimebot@gmail.com. Your request will be processed within 30 days of receipt.
