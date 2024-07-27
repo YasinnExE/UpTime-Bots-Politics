@@ -21,7 +21,7 @@ ID, name, profile photo, number of members, server owner, number of channels, da
 ID, name, account creation date, server login date.
 
 3) Protection of Your Data
-Your data is stored in a restricted access database using encryption. You can send an e-mail about the confidentiality of your data to speeduptimee@gmail.com. If you have a concern or question about your data, you can get help by creating a ticket.
+Your data is stored in a restricted access database using encryption. You can send an e-mail about the confidentiality of your data to uptimebot@gmail.com. If you have a concern or question about your data, you can get help by creating a ticket.
 
 4) Deletion of Your Data
 You are free to create a request for the deletion of your data. You may submit a request for the complete deletion of your data by sending a Direct Message to the user with the name tag and ID yasinexe (627543270985170958) or by sending an e-mail to uptimebot@gmail.com. Your request will be processed within 30 days of receipt. 
